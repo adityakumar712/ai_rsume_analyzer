@@ -16,6 +16,7 @@ export default function Home() {
     <main className="bg-[url('../public/bg-main.svg')]">
     
      <Navbar />
+     
 
     <section className="main-section">
       <div className="page-heading py-16">
